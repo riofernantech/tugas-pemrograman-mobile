@@ -1,0 +1,15 @@
+{
+  "name": "tugas1",
+  "version": "1.0.0",
+  "description": "tugas1 pbpb",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "riofernando",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
